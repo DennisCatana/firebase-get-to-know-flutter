@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50898481302",
+    "project_id": "fir-flutter-codelab-4a3a5",
+    "storage_bucket": "fir-flutter-codelab-4a3a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50898481302:android:c83a8a9905ab7094f552b7",
+        "android_client_info": {
+          "package_name": "com.dennis.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASiA_fVfqJlpzLMdtJ_quPYZJ4awEDWLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
